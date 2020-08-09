@@ -1,9 +1,7 @@
 <p align="center">
   <img width="434" height="127" src="https://user-images.githubusercontent.com/63978033/89732696-e8f1e200-da26-11ea-87fd-a2c29b775106.png">
 </p>
-<p align="center">
-  Made with :coffee: by <a href="https://www.linkedin.com/in/nicholas-cabral-dos-anjos-13b3981a7/" target="_blank"> Nicholasscabral </a> 
-</p>
+
 
 <h2>:pushpin: Description </h2>
 <p>
