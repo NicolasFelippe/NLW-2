@@ -8,14 +8,14 @@
   A application developed with the idea of connecting student to teachers, allowing the user to
   schedule or consult classes
 </p>
-<h2>:construction_worker: Built with</h2>
-<ul>
-    <li><a href="https://nodejs.org/en/">Node.js</a></li>
-    <li><a href="https://expressjs.com/pt-br/">Express</a></li>
-    <li><a href="https://www.npmjs.com/package/sqlite-async">sqlite-async</a></li>
-    <li><a href="https://mozilla.github.io/nunjucks/">nunjucks</a></li>
-    <li><a href="https://code.visualstudio.com/">VS code</a></li>
-</ul>
+<h2>:construction_worker: Langs and Tools</h2>
+
+:paperclip: NodeJS <br/>
+:paperclip: React <br/>
+:paperclip: React Native <br/>
+:paperclip: NPM <br/>
+:paperclip: YARN <br/>
+:paperclip: SQlite <br/>
 
 <h2> :triangular_flag_on_post: How to run</h2>
 
